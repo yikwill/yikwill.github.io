@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "William Yik"
+title: "Hi there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!
-======
 I'm William, a NOAA Ernest F. Hollings Scholar pursuing a Joint Major in Computer Science and Mathematics at Harvey Mudd College. My interests are in applied data science, the intersection of machine learning and climate science, and bias in artificial intelligence systems.
 
 This summer I will be joining Dr. Maike Sonnewald at the Geophysical Fluid Dynamics Laboratory (GFDL) to explore machine learning methods to infer ocean physics in the ocean-atmosphere system.
