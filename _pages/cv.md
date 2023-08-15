@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Harvey Mudd College, Claremont, USA | Expected 2024**
+B.S. Computer Science and Mathematics, Emphasis in Environmental Analysis
+Major GPA: 4.00, Overall GPA: 3.95
 
 Work experience
 ======
