@@ -22,9 +22,9 @@ Research experience
 ======
 **NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ | May 2023 - Present**\
 Research Intern, Ocean and Cryosphere Division
-  * Advisor: Maike Sonnewald
-  * Investigating deep ensemble learning methods for inferring subsurface ocean dynamics
-  * Improving interpretability of models using explainable AI techniques such as layer-wise relevance propagation and Shapley additive explanations
+    * Advisor: Maike Sonnewald
+    * Investigating deep ensemble learning methods for inferring subsurface ocean dynamics
+    * Improving interpretability of models using explainable AI techniques such as layer-wise relevance propagation and Shapley additive explanations
 
 **University of Southern California, Los Angeles, CA | May 2022 - Present**\
 Undergraduate Researcher, Atmospheric Composition and Earth Data Science Group
@@ -40,15 +40,14 @@ Undergraduate Researcher, AMISTAD Machine Learning Lab
 
 **Idaho National Laboratory, Idaho Falls, ID | Aug 2020 - Sept 2020**\
 Research Intern, Energy Innovation Laboratory
-  * Advisor: Christopher Zarzana
-  * Tested separation and content analysis methods for ligands and biomass using gas chromatography and pyrolysis
-  * Utilized liquid chromatography and mass spectrometry to accelerate ligand sample production
+    * Advisor: Christopher Zarzana
+    * Tested separation and content analysis methods for ligands and biomass using gas chromatography and pyrolysis
+    * Utilized liquid chromatography and mass spectrometry to accelerate ligand sample production
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Hom, C., Yik, W., Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. IEEE International Conference on Data Science and Advance Analytics (DSAA).\
+
   
 Talks
 ======
