@@ -46,7 +46,7 @@ Research Intern, Energy Innovation Laboratory
 
 Publications
 ======
-Hom, C., Yik, W., Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. IEEE International Conference on Data Science and Advance Analytics (DSAA).\
+Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.\
 
   
 Talks
