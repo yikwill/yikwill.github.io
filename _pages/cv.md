@@ -22,9 +22,9 @@ Research experience
 ======
 **NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ | May 2023 - Present**\
 Research Intern, Ocean and Cryosphere Division
-    * Advisor: Maike Sonnewald
-    * Investigating deep ensemble learning methods for inferring subsurface ocean dynamics
-    * Improving interpretability of models using explainable AI techniques such as layer-wise relevance propagation and Shapley additive explanations
+  * Advisor: Maike Sonnewald
+  * Investigating deep ensemble learning methods for inferring subsurface ocean dynamics
+  * Improving interpretability of models using explainable AI techniques such as layer-wise relevance propagation and Shapley additive explanations
 
 **University of Southern California, Los Angeles, CA | May 2022 - Present**\
 Undergraduate Researcher, Atmospheric Composition and Earth Data Science Group
@@ -40,14 +40,21 @@ Undergraduate Researcher, AMISTAD Machine Learning Lab
 
 **Idaho National Laboratory, Idaho Falls, ID | Aug 2020 - Sept 2020**\
 Research Intern, Energy Innovation Laboratory
-    * Advisor: Christopher Zarzana
-    * Tested separation and content analysis methods for ligands and biomass using gas chromatography and pyrolysis
-    * Utilized liquid chromatography and mass spectrometry to accelerate ligand sample production
+  * Advisor: Christopher Zarzana
+  * Tested separation and content analysis methods for ligands and biomass using gas chromatography and pyrolysis
+  * Utilized liquid chromatography and mass spectrometry to accelerate ligand sample production
 
 Publications
 ======
-Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.\
+__Full Papers__
+Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.
 
+**Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (Accepted, 2023). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *Artificial Intelligence for the Earth Systems (AIES)*. https://doi.org/10.1175/AIES-D-22-0088.1
+
+**Yik, W.**, Serafini, L., Lindsey, T., Monta<span>&#241;</span>ez, G. D. (2022). Identifying Bias in Data Using Two-Distribution Hypothesis Tests. *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)*. https://doi.org/10.1145/3514094.3534169
+
+__Workshop Papers__
+**Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (2022). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *NeurIPS Workshop: Tackling Climate Change with Machine Learning*. https://www.climatechange.ai/papers/neurips2022/36/paper.pdf
   
 Talks
 ======
