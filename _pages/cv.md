@@ -20,26 +20,29 @@ Neural Networks, Algorithms, Programming Languages, Data Structures <span>&#8226
 
 Research experience
 ======
-**NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ | May 2023 - Present**
+**NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ | May 2023 - Present**\
+Research Intern, Ocean and Cryosphere Division
+  * Advisor: Maike Sonnewald
+  * Investigating deep ensemble learning methods for inferring subsurface ocean dynamics
+  * Improving interpretability of models using explainable AI techniques such as layer-wise relevance propagation and Shapley additive explanations
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**University of Southern California, Los Angeles, CA | May 2022 - Present**\
+Undergraduate Researcher, Atmospheric Composition and Earth Data Science Group
+  * Advisor: Sam Silva
+  * Exploring the utility of randomly wired neural networks for climate model emulation
+  * Investigating methods for enforcing fairness and equity in neural climate emulators
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Harvey Mudd College, Claremont, CA | May 2021 - Present**\
+Undergraduate Researcher, AMISTAD Machine Learning Lab
+  * Advisor: George Monta<span>&#241;</span>ez
+  * Implemented novel hypothesis tests to systematically identify bias in machine learning training data
+  * Derived mathematical finite-sample bounds for two-distribution hypothesis tests
+
+**Idaho National Laboratory, Idaho Falls, ID | Aug 2020 - Sept 2020**\
+Research Intern, Energy Innovation Laboratory
+  * Advisor: Christopher Zarzana
+  * Tested separation and content analysis methods for ligands and biomass using gas chromatography and pyrolysis
+  * Utilized liquid chromatography and mass spectrometry to accelerate ligand sample production
 
 Publications
 ======
@@ -58,7 +61,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
