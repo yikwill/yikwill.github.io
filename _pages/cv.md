@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here (last updated Aug 2023)](https://yikwill.github.io/yikwill.github.io/CV-20230815.pdf)
+
 Education
 ======
 **Harvey Mudd College, Claremont, CA | Expected 2024**\
