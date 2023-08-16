@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<u>Full Papers</u>\
+Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.
 
-{% include base_path %}
+**Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (Accepted, 2023). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *Artificial Intelligence for the Earth Systems (AIES)*. <https://doi.org/10.1175/AIES-D-22-0088.1>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Yik, W.**, Serafini, L., Lindsey, T., Monta<span>&#241;</span>ez, G. D. (2022). Identifying Bias in Data Using Two-Distribution Hypothesis Tests. *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)*. <https://doi.org/10.1145/3514094.3534169>
+
+<u>Workshop Papers</u>\
+**Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (2022). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *NeurIPS Workshop: Tackling Climate Change with Machine Learning*. <https://www.climatechange.ai/papers/neurips2022/36/paper.pdf>
