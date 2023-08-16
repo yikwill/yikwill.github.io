@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here (last updated Aug 2023)](<https://yikwill.github.io/CV 20230815.pdf>)
+<!--[Download my CV here (last updated Aug 2023)](<https://yikwill.github.io/CV%2020230815.pdf>)-->
+<a href="https://yikwill.github.io/CV%2020230815.pdf" target="_blank">Download my CV here (last updated Aug 2023)</a>
 
 Education
 ======
