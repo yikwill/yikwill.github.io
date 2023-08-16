@@ -7,7 +7,7 @@ author_profile: true
 
 <u>Full Papers</u>\
 Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.\
-[<a href="https://doi.org/10.1175/AIES-D-22-0088.1" target="_blank">Preprint coming soon</a>]
+[Preprint coming soon]
 [<a href="https://github.com/AMISTAD-lab/finite-sample-bounds" target="_blank">Code</a>]
 
 **Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (Accepted, 2023). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *Artificial Intelligence for the Earth Systems (AIES)*.\
