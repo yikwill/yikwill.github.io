@@ -46,8 +46,7 @@ Research Intern, Energy Innovation Laboratory
 
 Publications
 ======
-<u>Full Papers</u>
-
+<u>Full Papers</u>\
 Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.
 
 **Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (Accepted, 2023). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *Artificial Intelligence for the Earth Systems (AIES)*. <https://doi.org/10.1175/AIES-D-22-0088.1>
@@ -57,14 +56,38 @@ Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite
 <u>Workshop Papers</u>\
 **Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (2022). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *NeurIPS Workshop: Tackling Climate Change with Machine Learning*. <https://www.climatechange.ai/papers/neurips2022/36/paper.pdf>
   
-Talks
+Contributed Talks and Posters
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+NOAA Science and Education Symposium, *Talk: Explainable Machine Learning for Inferring Subsurface Ocean Dynamics*, Aug 2023.
+
+NeurIPS Workshop: Tackling Climate Change with Machine Learning, *Poster: Exploring Randomly Wired Neural Networks for Climate Model Emulation*, Dec 2022.
+
+Harvey Mudd College Student Symposium, *Poster: Exploring Randomly Wired Neural Networks for Climate Model Emulation*, Sept 2022.
+
+AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society, *Talk and Poster: Identifying Bias in Data Using Two-Distribution Hypothesis Tests*, Aug 2022.
   
-Teaching
+Awards and Honors
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Ernest F. Hollings Undergraduate Scholarship ($19K) | Awarded 2022**\
+National Oceanic and Atmospheric Administration
+
+**National Merit Scholarship ($6K) | Awarded 2020**\
+National Merit Scholarship Corporation
+
+Teaching Experience
+======
+**Harvey Mudd College, Claremont, CA | Aug 2022 - Present**\
+Mathematics Academic Excellence Facilitator
+  * Courses: Differential Equations, Discrete Mathematics, Linear Algebra, Probability and Statistics, Calculus
+  * Nominated by faculty to hold weekly tutoring sessions for groups of 10-50 student
+
+**Harvey Mudd College, Claremont, CA | Aug 2021 - May 2022**\
+Teaching Assistant
+  * Courses: Computability and Logic, Discrete Mathematics, Introduction to Computer Science
+  * Held weekly tutoring sessions for groups of 5-30 students and graded homework assignments
+
+Skills
+======
+**Programing Languages**: Python, R, C++, Java, MATLAB, Haskell
+**Machine Learning/Data Science**: Tensorflow, PyTorch, Scikit-learn, SciPy, NumPy, Xarray, Pandas
+**Software/Web Development**: Git, Docker, Visual Studio Code, Eclipse, Flask, HTML, CSS
