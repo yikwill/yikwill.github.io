@@ -90,6 +90,6 @@ Teaching Assistant
 
 Skills
 ======
-**Programing Languages**: Python, R, C++, Java, MATLAB, Haskell
-**Machine Learning/Data Science**: Tensorflow, PyTorch, Scikit-learn, SciPy, NumPy, Xarray, Pandas
+**Programing Languages**: Python, R, C++, Java, MATLAB, Haskell\
+**Machine Learning/Data Science**: Tensorflow, PyTorch, Scikit-learn, SciPy, NumPy, Xarray, Pandas\
 **Software/Web Development**: Git, Docker, Visual Studio Code, Eclipse, Flask, HTML, CSS
