@@ -17,6 +17,9 @@ Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite
 **Yik, W.**, Serafini, L., Lindsey, T., Monta<span>&#241;</span>ez, G. D. (2022). Identifying Bias in Data Using Two-Distribution Hypothesis Tests. *AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)*.\
 [<a href="https://doi.org/10.1145/3514094.3534169" target="_blank">Paper</a>]
 [<a href="https://github.com/AMISTAD-lab/bias-in-data-source" target="_blank">Code</a>]
+[<a href="https://youtu.be/9ESyVlKJ6BM" target="_blank">Presentation</a>]
+[<a href="https://drive.google.com/file/d/1617yuc23C1LMytDeexKtYcQIQLqfgK0P/view?usp=sharing" target="_blank">Slides</a>]
+[<a href="https://www.cs.hmc.edu/~montanez/posters/poster-yik-2022-IBIDUTDHT.pdf" target="_blank">Poster</a>]
 
 <u>Workshop Papers</u>\
 **Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (2022). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *NeurIPS Workshop: Tackling Climate Change with Machine Learning*.\
