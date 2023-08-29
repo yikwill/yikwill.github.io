@@ -46,7 +46,7 @@ Undergraduate Researcher, Atmospheric Composition and Earth Data Science Group
   * Exploring the utility of randomly wired neural networks for climate model emulation
   * Investigating methods for enforcing fairness and equity in neural climate emulators
 
-**Harvey Mudd College, Claremont, CA | May 2021 - Present**\
+**Harvey Mudd College, Claremont, CA | May 2021 - May 2023**\
 Undergraduate Researcher, AMISTAD Machine Learning Lab
   * Advisor: George Monta<span>&#241;</span>ez
   * Implemented novel hypothesis tests to systematically identify bias in machine learning training data
