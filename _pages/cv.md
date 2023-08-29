@@ -18,7 +18,7 @@ B.S. Computer Science and Mathematics, Emphasis in Environmental Analysis\
 Major GPA: 4.00, Overall GPA: 3.95
 
 **Select Coursework**\
-Neural Networks, Algorithms, Programming Languages, Data Structures <span>&#8226;</span> Scientific Computing, Mathematical Modeling, Stochastic Processes, Probability and Statistics, Discrete Mathematics, Differential Equations, Linear Algebra <span>&#8226;</span> Climate Science, Oceanography, Global Climate Change, Climate Change in Context
+Neural Networks, Algorithms, Programming Languages, Data Structures <span>&#8226;</span> Scientific Computing, Mathematical Modeling, Stochastic Processes, Probability and Statistics, Discrete Mathematics, Differential Equations, Linear Algebra <span>&#8226;</span> Climate Dynamics, Oceanography, Global Climate Change, Climate Change in Context
 
 Research experience
 ======
