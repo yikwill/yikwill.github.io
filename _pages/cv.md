@@ -23,7 +23,9 @@ Neural Networks, Algorithms, Programming Languages, Data Structures <span>&#8226
 Publications
 ======
 <u>2023</u>\
-Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.
+**Yik, W.**, Sonnewald, M., Clare, M. C. A., Lguensat, R. (Under Review). Southern Ocean Dynamics Under Climate Change: New Knowledge Through Physics-Guided Machine Learning. *NeurIPS Workshop: Tackling Climate Change with Machine Learning*. <https://yikwill.github.io/files/NeurIPSCCAI2023.pdf>
+
+Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*. <https://yikwill.github.io/files/DSAA2023.pdf>
 
 **Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (Accepted, 2023). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *Artificial Intelligence for the Earth Systems (AIES)*. <https://doi.org/10.1175/AIES-D-22-0088.1>
 
