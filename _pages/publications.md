@@ -7,7 +7,7 @@ author_profile: true
 
 <u>2023</u>\
 Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (Accepted, 2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.\
-[Paper and code coming soon]
+[<a href="https://yikwill.github.io/files/DSAA2023.pdf" target="_blank">Paper</a>]
 
 **Yik, W.**, Silva, S. J., Geiss, A., Watson-Parris, D. (Accepted, 2023). Exploring Randomly Wired Neural Networks for Climate Model Emulation. *Artificial Intelligence for the Earth Systems (AIES)*.\
 [<a href="https://doi.org/10.1175/AIES-D-22-0088.1" target="_blank">Paper</a>]
