@@ -10,7 +10,7 @@ Ocean Sciences Meeting, *Talk: Explainable Machine Learning for Inferring Subsur
 NeurIPS Workshop: Tackling Climate Change with Machine Learning, *Poster: Southern Ocean Dynamics Under Climate Change: New Knowledge Through Physics-Guided Machine Learning*, Dec 2023.\
 [<a href="https://slideslive.com/39012870" target="_blank">Video Presentation</a>]
 [<a href="https://docs.google.com/presentation/d/18W8mLUI2haLUbjrhHS6YpIcjVCiy3fG6XBQQR3VHBtU/edit?usp=sharing" target="_blank">Slides</a>]
-[<a href="https://yikwill.github.io/files/NeurIPS%Poster%2023.pdf" target="_blank">Poster</a>]
+[<a href="https://yikwill.github.io/files/NeurIPSPoster2023.pdf" target="_blank">Poster</a>]
 
 American Geophysical Union Fall Meeting, *Talk: Enforcing Equity in Neural Climate Emulators*, Dec 2023.\
 [<a href="https://docs.google.com/presentation/d/1YrmY4vk6IR62j88iBUr1nKIg8Hchl1lqhpxp91ZWCoU/edit?usp=sharing" target="_blank">Slides</a>]
@@ -19,7 +19,7 @@ IEEE International Conference on Data Science and Advanced Analytics, *Talk: Fin
 [<a href="https://docs.google.com/presentation/d/1tpcsBX4qFFiaeTmvqjixyzzUMP_Yusd8vs0F6P2R-As/edit?usp=sharing" target="_blank">Slides</a>]
 
 Harvey Mudd College Student Symposium, *Poster: Explainable Machine Learning for Inferring Subsurface Ocean Dynamics*, Sept 2023.\
-[<a href="https://yikwill.github.io/files/HMC%Poster%2023.pdf" target="_blank">Poster</a>]
+[<a href="https://yikwill.github.io/files/HMCPoster2023.pdf" target="_blank">Poster</a>]
 
 NOAA Science and Education Symposium, *Talk: Explainable Machine Learning for Inferring Subsurface Ocean Dynamics*, Aug 2023.\
 [<a href="https://docs.google.com/presentation/d/1CweP1p5k5qhqN9HD22e50jukBKnIHnPxD__ICIGbQ3o/edit?usp=sharing" target="_blank">Slides</a>]

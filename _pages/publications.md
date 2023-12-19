@@ -11,7 +11,7 @@ author_profile: true
 [<a href="https://github.com/yikwill/THOR-MOM6" target="_blank">Code</a>]
 [<a href="https://slideslive.com/39012870" target="_blank">Video Presentation</a>]
 [<a href="https://docs.google.com/presentation/d/18W8mLUI2haLUbjrhHS6YpIcjVCiy3fG6XBQQR3VHBtU/edit?usp=sharing" target="_blank">Slides</a>]
-[<a href="https://yikwill.github.io/files/NeurIPS%Poster%2023.pdf" target="_blank">Poster</a>]
+[<a href="https://yikwill.github.io/files/NeurIPSPoster2023.pdf" target="_blank">Poster</a>]
 
 Hom, C., **Yik, W.**, Monta<span>&#241;</span>ez, G. D. (2023). Finite-Sample Bounds for Two-Distribution Hypothesis Tests. *IEEE International Conference on Data Science and Advance Analytics (DSAA)*.\
 [<a href="https://yikwill.github.io/files/DSAA2023.pdf" target="_blank">Paper</a>]
