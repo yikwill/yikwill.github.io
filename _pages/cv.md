@@ -20,7 +20,7 @@ Major GPA: 4.00, Overall GPA: 3.95
 **Select Coursework**\
 *Mathematics*: Dynamical Systems, Mathematical Modeling, Stochastics, Differential Equations, Linear Algebra\
 *Computer Science*: Neural Networks, Scientific Computing, Algorithms, Programming Languages, Data Structures\
-*Earth Science*: Atmosphere and Ocean Dynamics, Climate Science, Oceanography, Global Climate Change, Climate Change in Context
+*Earth Science*: Atmosphere and Ocean Dynamics, Climate Science, Oceanography, Global Climate Change
 
 Publications
 ======
