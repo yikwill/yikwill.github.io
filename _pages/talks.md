@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-Ocean Sciences Meeting, *Talk: Explainable Machine Learning for Inferring Subsurface Ocean Dynamics*, Upcoming Feb 2024.
+Ocean Sciences Meeting, *Talk: Explainable Machine Learning for Inferring Subsurface Ocean Dynamics*, Feb 2024.\
+[<a href="https://docs.google.com/presentation/d/1arAqTotIPIHKs6cPF0f4O8V5IqzTsllwGusm6mlQCiY/edit?usp=sharing" target="_blank">Slides</a>]
 
 NeurIPS Workshop: Tackling Climate Change with Machine Learning, *Poster: Southern Ocean Dynamics Under Climate Change: New Knowledge Through Physics-Guided Machine Learning*, Dec 2023.\
 [<a href="https://slideslive.com/39012870" target="_blank">Video Presentation</a>]
