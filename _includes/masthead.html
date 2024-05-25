@@ -13,10 +13,11 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            {% if link.url contains 'CV' %}
+            <!-- Make only the CV link in navigation bar open in new tab -->
+            {% if link.url contains 'CV_Yik' %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
             {% else %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>

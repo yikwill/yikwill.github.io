@@ -1,10 +1,8 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
-
-  - title: "Test"
-    url: https://yikwill.github.io/files/CV%2020240525.pdf
+    url: https://yikwill.github.io/files/CV_Yik.pdf
+    # url: /cv/
 
   - title: "Publications"
     url: /publications/
