@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "William Yik"
 author_profile: true
 redirect_from: 
   - /about/
