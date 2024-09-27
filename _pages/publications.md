@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<u>2024</u>\
+**Yik, W.**, Silva, S. J. (Submitted). Enforcing Equity in Neural Climate Emulators.\
+[<a href="https://arxiv.org/abs/2406.19636" target="_blank">Preprint</a>]
+
 <u>2023</u>\
 **Yik, W.**, Sonnewald, M., Clare, M. C. A., Lguensat, R. (2023). Southern Ocean Dynamics Under Climate Change: New Knowledge Through Physics-Guided Machine Learning. *NeurIPS Workshop: Tackling Climate Change with Machine Learning*.\
 [<a href="https://arxiv.org/abs/2310.13916" target="_blank">Paper</a>]
