@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Last updated July 2024. For an up-to-date list of publications, see <a href="https://scholar.google.com/citations?user=Q9GNevIAAAAJ&hl=en&oi=ao" target="_blank">my Google Scholar</a>.
 
 <u>2024</u>\
 **Yik, W.**, Silva, S. J. (Submitted). Enforcing Equity in Neural Climate Emulators.\
